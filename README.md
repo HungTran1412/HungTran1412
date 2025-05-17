@@ -11,15 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.facebook.com/hngtrn.04" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/m.hngf_/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
-  <a href="mailto:hunghung2k4123@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="gmail" height="30" width="40" />
-  </a>
+<a href="https://fb.com/hngtrn.04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hngtrn.04" height="30" width="40" /></a>
+<a href="https://instagram.com/m.hngf_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.hngf_" height="30" width="40" /></a>
+<a href="https://discord.gg/hng.trn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hng.trn" height="30" width="40" /></a>
 </p>
 
 
