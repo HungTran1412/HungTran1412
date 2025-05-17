@@ -9,6 +9,9 @@
 
 - ⚡ Fun fact: I love coffee, cigaratte and coding at night 🌙
 
+<img src="469725125_1110495347090593_7380105012880434636_n.jpg" style="display: block; margin-left: auto; margin-right: auto; max-width: 100%; height: auto;">
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/hngtrn.04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hngtrn.04" height="30" width="40" /></a>
