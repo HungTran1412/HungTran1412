@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Android, ASP.NET, ReactJS**
 
-- 📫 How to reach me: **hunghung2k4123@gmail.com**
+- 📫 How to reach me: **tnmhung04@gmail.com**
 
 - ⚡ Fun fact: I love coffee, cigaratte and coding at night 🌙
 
