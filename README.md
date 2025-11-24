@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minh Hùng</h1>
 <h3 align="center">A backend developer from Vietnam</h3>
 
-- 🔭 I’m currently working on nothing((=
+- 🔭 I’m currently interning at Unisoft
 
 - 🌱 I’m currently learning **Spring Boot, Android, ASP.NET, ReactJS, Angular**
 
@@ -37,6 +37,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
 
 <h3 align="left">Frameworks:</h3>
@@ -56,6 +57,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="40" alt="intellij logo" />
+  <img src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" alt="rider" width="40" height="40"/>
 </p>
 
 ---
