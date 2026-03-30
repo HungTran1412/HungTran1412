@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minh Hùng</h1>
-<h3 align="center">A backend developer from Vietnam</h3>
+<h3 align="center">A Back End and Front End developer from Vietnam</h3>
 
-- 🔭 I’m currently interning at Unisoft
+- 🔭 I’m currently interning at Thien An Technology
 
 - 🌱 I’m currently learning **Spring Boot, Android, ASP.NET, ReactJS, Angular**
 
