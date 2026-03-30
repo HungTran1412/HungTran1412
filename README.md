@@ -7,8 +7,6 @@
 
 - 📫 How to reach me: **tnmhung04@gmail.com**
 
-- ⚡ Fun fact: I love coffee, cigaratte and coding at night 🌙
-
 <img src="469725125_1110495347090593_7380105012880434636_n.jpg" style="display: block; margin-left: auto; margin-right: auto; max-width: 100%; height: auto;">
 
 ---
